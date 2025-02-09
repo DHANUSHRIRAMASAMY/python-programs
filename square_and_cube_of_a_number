@@ -1,0 +1,13 @@
+//square and cube of a number
+num = int(input("Enter num:"))
+a = num * num
+b = num * num * num
+print("Square of a  number:" , a)
+print("Cube of a number:" , b)
+
+**************************************
+OUTPUT:
+Enter num:4
+Square of a  number: 16
+Cube of a number: 64
+*************************************
