@@ -1,0 +1,12 @@
+//REMAINDER_OF_DIVISION
+x=int(input("Enter x:"))
+y=int(input("Enter y:"))
+z = int(x%y)
+print("Remainder:",z)
+
+*****************************
+OUTPUT:
+Enter x:30
+Enter y:4
+Remainder: 2
+****************************
