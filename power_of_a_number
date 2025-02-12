@@ -1,0 +1,13 @@
+// power_of_a_number
+num = int(input("Enter value of num:"))
+power = int(input("Enter value of power:"))
+power = pow(num,power)
+print("Power of number:" , power)
+
+*********************************************
+OUTPUT:
+Enter value of num:5
+Enter value of power:3
+Power of number: 125
+*********************************************
+
