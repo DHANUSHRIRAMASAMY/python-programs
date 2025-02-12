@@ -1,0 +1,11 @@
+// volume_of_cylinder
+r = int(input("Enter a value:"))
+h = int(input("Enter a value:"))
+print("Volume of a cylinder:" , 2 * r * r * h)
+
+**************************************************
+OUTPUT:
+Enter a value:6
+Enter a value:5
+Volume of a cylinder: 360
+**************************************************
