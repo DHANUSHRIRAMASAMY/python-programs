@@ -1,0 +1,17 @@
+#  celsius to fahrenheit
+celsius = int(input("Enter temperature:"))
+fahrenheit = (celsius * 9/5) + 32
+print("celsius to fahrenheit is:" , fahrenheit)
+
+# fahrenheit to celsius
+fahrenheit = int(input("Enter temperature:"))
+celsius = (fahrenheit -32) * 1.8
+print("fahrenheit to celsius is:" ,celsius)
+
+*************************************************
+OUTPUT:
+Enter temperature:298
+celsius to fahrenheit is: 568.4
+Enter temperature:395
+fahrenheit to celsius is: 653.4
+************************************************
