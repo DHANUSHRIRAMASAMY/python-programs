@@ -1,0 +1,11 @@
+// area_of_triangle
+b = int(input("Enter value of b:"))
+h = int(input("Enter value of h:"))
+print("Area of triangle:" , 1/2 * b *h)
+
+******************************************
+OUTPUT:
+Enter value of b:8
+Enter value of h:7
+Area of triangle: 28.0
+******************************************
