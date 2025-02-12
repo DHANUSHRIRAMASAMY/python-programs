@@ -1,0 +1,16 @@
+// distance_bw_2_points
+x1 = int(input("Enter a value of x1:"))
+x2 = int(input("Enter a value of x2:"))
+y1 = int(input("Enter a value of y1:"))
+y2 = int(input("Enter a value of y2:"))
+distance = ((x2-x1)**2 + (y2-y1)**2) * 0.5
+print("Distance betwween 2 points:" ,distance)
+
+*************************************************
+OUTPUT:
+Enter a value of x1:45
+Enter a value of x2:32
+Enter a value of y1:23
+Enter a value of y2:43
+Distance betwween 2 points: 284.5
+*************************************************
