@@ -1,0 +1,11 @@
+//area_&_circumference_of_circle
+r = int(input("Enter r value"))
+print("Area of circle:" , 3.14 * r * r)
+print("Circumference of circle:" , 2 * 3.14 * r)
+
+*****************************************************
+OUTPUT:
+Enter r value3
+Area of circle: 28.259999999999998
+Circumference of circle: 18.84
+*****************************************************
