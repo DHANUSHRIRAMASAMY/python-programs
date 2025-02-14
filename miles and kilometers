@@ -1,0 +1,19 @@
+//miles to kilometers
+miles =float(input("Enter miles:"))
+kilometers =miles * 1.6
+print("miles to kilometers=",kilometers)
+
+//kilometers to miles
+kilometers =float(input("Enter kilometer:"))
+miles =kilometers * 0.6
+print("kilometers to miles:",miles)
+
+
+
+***********************************************
+OUTPUT:
+Enter miles:215
+miles to kilometers= 344.0
+Enter kilometer:215
+kilometers to miles: 129.0
+***********************************************
