@@ -1,0 +1,12 @@
+import math
+x =int(input("Enter value:"))
+y =int(input("Enter value:"))
+z =math.gcd(x,y)
+print("GCD is ",z)
+
+********************************
+OUTPUT:
+Enter value:60
+Enter value:48
+GCD is  12
+********************************
