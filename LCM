@@ -1,0 +1,12 @@
+import math
+x =int(input("Enter value:"))
+y =int(input("Enter value:"))
+z =math.lcm(x,y)
+print("LCM is ",z)
+
+*********************************
+OUTPUT:
+Enter value:54
+Enter value:24
+LCM is  216
+*********************************
