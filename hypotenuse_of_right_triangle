@@ -1,0 +1,12 @@
+x =float(input("Enter x:"))
+y =float(input("Enter y:"))
+z =(x**2 + y**2) * 0.5
+print("Hypotenuse of right triangle:",z)
+
+******************************************
+OUTPUT:
+Enter x:3
+Enter y:4
+Hypotenuse of right triangle: 12.5
+******************************************
+
